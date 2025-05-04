@@ -39,7 +39,7 @@ Para criar um novo signatario ele usa o arquivo "dados.txt" que vem de um macro 
 ├── app
 │   ├── enviar_contrato.py
 │   ├── validacao.py
-│   └── main.py
+│   └── interface.py
 │
 ├── botao_adicionar_documentos.png
 ├── botao_adicionar.png
